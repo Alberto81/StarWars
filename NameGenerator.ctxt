@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=primAp\ nombre\ segAp\ cityNac
+comment0.target=java.lang.String\ generateStarWarsName(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\nintroduces\ datos\ por\ parametro\ y\ devuelve\ un\ nombreStarWars\r\n
+comment1.params=
+comment1.target=void\ ejemplo()
+numComments=2
